@@ -2,12 +2,9 @@
 <h3 align="center">A passionate developer from Croatia.</h3>
 
 - 🔭 I’m currently working on [E-Commerce WebShop](https://github.com/ajakupi00/E-Commerce-WebShop)
-- 📱  I'm currently also developing an Kotlin Android phone application [Kotlin Country Application](https://github.com/ajakupi00/kotlin-country-app) 
-
+- 📱  I'm developing an Kotlin Android phone application [Kotlin Country Application](https://github.com/ajakupi00/kotlin-country-app) 
 - 👨‍💻 All of my projects are available at [https://github.com/ajakupi00](https://github.com/ajakupi00)
-
 - 📫 How to reach me **arjan.jakupi007@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/arjanjakupi/](https://www.linkedin.com/in/arjanjakupi/)
 
 <h3 align="left">Connect with me:</h3>
