@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arjan</h1>
 <h3 align="center">A passionate developer from Croatia.</h3>
 
-- 🔭 I’m currently working on [E-Commerce WebShop](https://github.com/ajakupi00/E-Commerce-WebShop)
+- 🔭 Checkout my e-commerce webshop [myskinet.shop](https://myskinet.shop) integrated with **Stripe** for payments 💳
 - 👨‍💻 All of my projects are available at [https://github.com/ajakupi00](https://github.com/ajakupi00)
 - 📫 How to reach me **arjan.jakupi007@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/arjanjakupi/](https://www.linkedin.com/in/arjanjakupi/)
